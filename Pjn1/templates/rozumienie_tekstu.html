@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <title>Rozumienie Tekstu</title>
+</head>
+<body>
+    <header>
+        <h1>Rozumienie Tekstu</h1>
+    </header>
+    <div class="container">
+        <form method="post">
+            <label for="procent">Procent słów do zrozumienia:</label>
+            <input type="number" id="procent" name="procent" value="{{ procent }}">
+            <input type="submit" value="Oblicz">
+        </form>
+        <h2>Słowa potrzebne do zrozumienia: {{ slowa_rozumiane }}</h2>
+        <h2>Liczba wszystkich słów: {{ wszystkie_slowa }}</h2>
+        <a href="/">Wróć do strony głównej</a>
+    </div>
+</body>
+</html>
