@@ -1,0 +1,77 @@
+Računalo
+
+Računalo, razgovorno poznato i kao kompjutor ili kompjuter, uređaj je koji služi za izvršavanje matematičkih operacija ili kontrolnih operacija koje se mogu izraziti u numeričkom ili logičkom obliku. Računala su sastavljena od dijelova koji obavljaju jednostavnije, jasno određene funkcije. Složeno međudjelovanje tih dijelova rezultira sposobnošću računala da obrađuje informacije.
+
+Osnovna računala
+
+Rad računala može biti zasnovan na kretanju mehaničkih dijelova, elektrona, fotona, kvantnih čestica ili neke druge fizičke pojave. Iako se računala mogu izgraditi na mnogim postojećim tehnologijama, gotovo svi današnji modeli sadrže u sebi elektroničke komponente.
+
+Kod većine današnjih računala zadani problemi se u osnovi rješavaju pretvaranjem svih relevantnih informacija u matematičke relacije korištenjem binarnog sustava (nula i jedan). (Međutim, računala ne mogu riješiti sve matematičke probleme.)
+
+Nakon što računalo izvrši izračunavanje zadatog problema, rezultat se prikazuje na korisniku (čovjeku) pristupačan način: preko signalnih žaruljica, LED displeja, zaslona, pisača i dr.
+
+Početnici u radu s računalima, pogotovo djeca, često ne mogu shvatiti činjenicu da su računala samo uređaji i da ne mogu misliti odnosno razumjeti, čak ni ono što prikažu kao rezultat svog "rada". Slike, boje, riječi i dr. koje vidimo na ekranu računalnog zaslona su samo programirani prikazi koje ljudski mozak prepoznaje i daje im značenje i smisao. Računalo samo manipulira tokovima elektrona, kojima na svojoj osnovnoj razini funkcioniranja - tranzistoru - dodjeljuje logičke vrijednosti nula ili jedan, odnosno stanje "nula = nema napona" ili "jedan = ima napona". Do sada nam nije poznat način kojim bi se uspješno oponašalo ljudsko razmišljanje ili samosvjesnost.
+
+Neke od važnih odrednica za konstruktivna rješenja
+Binarni ili decimalni?
+Važan korak naprijed u razvoju digitalnih računala bilo je uvođenje binarnog sustava za unutrašnje numeričke procese. Ovim je prestala potreba za složenim izvršnim mehanizmima koje su računala zasnovana na drugim numeričkim sustavima, npr. decimalnom ili heksadecimalnom, zahtijevali. Usvajanje binarnog sustava rezultiralo je pojednostavljenjem konstruktivnih rješenja kod primjene aritmetičkih funkcija i logičkih operacija, znači, i pojednostavljenjem sklopova i dijelova samog računala.
+
+Mogućnost programiranja
+Mogućnost da se računalo programira, tj. opremi nizom izvršnih naredbi bez potrebe za fizičko-konstruktivnim izmjenama, osnovna je funkcionalna karakteristika većine računala. Ova osobina je značajno unaprijeđena njihovim razvojem do stupnja na kojem su bili sposobni upravljati redoslijedom izvršavanja naredbi na osnovi podataka dobivenih tijekom samog vršenja određenog programa. Ovo konstruktivno unaprjeđenje je još više pojednostavljeno uvođenjem (v. prethodnu cjelinu) binarne aritmetike kojom se mogu predstaviti različite logičke operacije.
+
+Pohrana podataka
+Tijekom računskih operacija često je potrebno pohraniti međuvrijednosti ("dva pišem, a jedan pamtim") koje će se upotrijebiti u daljem računanju. Brzina nekog računala je najčešće ograničena brzinom kojom se vrijednosti čitaju/zapisuju iz/u memoriju i njezinim kapacitetom. Prvobitno je zamišljeno da se memorija koristi samo za spomenute međuvrijednosti, međutim, ubrzo su se i sami programi počeli pohranjivati na ovaj način i to se uvelike primjenjuje kod današnjih računala.
+
+Sklopovlje
+
+Hrvatski nazivi: sklopovlje, očvrsje.
+
+Iako se tehnologija izrade računala značajno izmijenila od vremena prvih elektroničkih modela sagrađenih u četrdesetim godinama stoljeća, još uvijek je većina današnjih rješenja zasnovano na tzv. von Neumannovoj arhitekturi. Ta arhitektura podrazumijeva računalo kao sklop sastavljen od četiri glavna dijela:
+
+ALU (Arithmetic and Logic Unit) - aritmetičko-logička jedinica,
+kontrolna jedinica,
+memorija (u kojoj su podatci i programi dijele istu memoriju)
+I/O (Input and Output) - ulazni i izlazni sklopovi
+Ovi dijelovi su međusobno povezani mnoštvom žica - sabirnicom (engl. bus). Svi su obično pogonjeni sinkrono tj. vremenskim uređajem ( sat, generator takta), iako i drugi "događaji" mogu pogoniti kontrolne sklopove. Postoje također i računala koja su pogonjena asinkrono.
+
+Procesor
+Aritmetičko-logička jedinica (ALU - arithmetic and logic unit) je sklop unutar procesora koji vrši osnovne aritmetičke operacije (zbrajanje, oduzimanje i dr.), logičke operacije (I, ILI, NE) i uspoređivanje, npr. podudara li se sadržaj dva bajta.
+
+Upravljačka jedinica je ta koja pretvara naredbe u memoriji u električne impulse i određuje koje će se podoperacije i koji redosljed će te podoperacije uzeti unutar mikroprocesora. Upravljačka jedinica također upravlja s prijenosom s memorijskih lokacija unutar mikroprocesora, i obavlja ulogu čitanja i spremanja podataka iz i u glavnu memoriju. Kada je to obavljeno, upravljačka jedinica ide na narednu naredbu (obično smještenu na sljedećem memorijskom mjestu) ako naredba ne govori računalu da je sljedeća naredba smještena negdje drugdje.
+
+Kada se poziva na memoriju, data naredba može na različite načine odrediti odgovarajuću memorijsku adresu.
+
+Procesori su prije 80-tih godina 20. stoljeća zauzimale su po nekoliko ploča. U novije doba (2015.) mnoge matične ploče podržavaju dva ili više obradnika.
+
+Memorija
+Ovdje podrazumijevamo da je memorija niz obrojčenih/numeriranih stanica, od kojih svaka sadrži djelić informacije. Informacija može biti instrukcija kojom se računalu zadaje neki zadatak. Stanica može sadržavati i podatak koji je potreban računalu da bi izvršilo neku instrukciju. U svakom slučaju, bilo koja stanica može sadržavati djelić informacije koji u danom trenutku može predstavljati podatak a već u sljedećem - instrukciju. Znači, sadržaj memorijskih stanica se neprestano mijenja.
+
+Veličina svake stanice i njihov broj razlikuju se od računala do računala, a i tehnologije izrade tijekom njihovog razvoja su bile bitno različite. Tako smo imali elektromehaničke memorije - releje, cijevi ispunjene živom u kojima su se stvarali zvučni pulsevi, matrice stalnih/trajnih magneta, pojedinačnih tranzistora, sve do integriranih sklopova s više milijuna diskretnih i aktivnih elemenata.
+
+Ulazne i izlazne jedinice
+Putem ulaznih i izlaznih jedinica računalo dobiva informacije iz vanjskog svijeta i šalje rezultate natrag. Neke jednice mogu biti i ulazne i izlazne. Postoji širok spektar jedinica; od tipkovnica, preko miševa, monitora, disketnih pogona, (optičkih) pogona, pisača, sve do skenera i kamera.
+
+Zajednička osobina svih ulaznih jedinica je da pretvaraju informacije određene vrste u podatke koji dalje mogu biti obrađeni u digitalnom sistemu računala. Nasuprot tome, izlazne jedinice pretvaraju podatke u informacije koje korisnik računala može razumjeti. U ovom slučaju, digitalni sustav računala predstavlja sustav za obradu podataka.
+
+Arhitektura
+
+Kod današnjih računala, aritmetičko-logička i upravljačka jedinica smještene su na jednom integriranom sklopu koji nazivamo središnja obradna jedinica (CPU - central processing unit). Memorija računala smještena je na nekoliko malih integriranih sklopova pored centralnog obradnika. Nerazmjerno velik dio ukupne mase računala zapravo je sadržan u sustavu napajanja električnom energijom - jedinica za napajanje i uređajima.
+
+Neka od većih računala razlikuju se od gore opisanog modela uglavnom po većem broju obradnika i upravljačkih jedinica koji rade istovremeno. Dodajmo ovome i da neka računala, čija je isključiva namjena znanstveno istraživanje i računanje, imaju sasvim drugačiju arhitekturu i zbog drugačijeg, nestandardiziranog načina programiranja, nisu našli širu komercijalnu primjenu.
+
+Dakle, u biti, načelo funkcioniranja računala je prilično jednostavno; kod svakog takta, računalo povlači instrukcije i podatke iz svoje memorije, izvršava naredbe, pohranjuje rezultate i ponavlja ciklus. Ponavljanje se vrši sve do nailaska na instrukciju "stop".
+
+Programska oprema
+
+Računalne instrukcije nisu bogate kao što je ljudski jezik. Računalo poznaje samo ograničen broj jasno definiranih i jednostavnih instrukcija. Evo nekoliko primjera: "preslikati sadržaj ćelijeu ćeliju, "ako je sadržaj ćelije veći od sljedeća instrukcija se nalazi u ćeliji sadržaj ćelije oduzeti sadržaju ćelije a rezultat upisati u ćeliju 
+
+Instrukcije su u računalu predstavljene binarnim sustavom brojeva. Operacija "kopiraj" je, npr. kod Intelovih mikroprocesora u binarnom sustavu predstavljena ovako: 10110000. Određeni niz instrukcija koje određeno računalo može obraditi naziva se strojni kod. U stvarnosti, ljudi ne stvaraju instrukcije direktno u strojnom jeziku već koriste programske jezike koje se prevode u strojni kod putem posebnih računalnih programa "prevodilaca" i kompajlera. Neki programski jezici su veoma bliski strojnom kodu, kao što je sabirnik (Assembler), a drugi, kao Prolog, zasnovani su na apstraktnim načelima koja imaju malo sličnosti sa stvarnim operacijama unutar računala.
+
+Programi
+Računalni program je niz instrukcija koje računalo može izvršiti. Tipično moderno osobno računalo (PC - personal computer) može izvršiti nekoliko milijardi naredbi u sekundi. Recimo i to da izvanredne sposobnosti računala nisu posljedica izvršavanja složenih naredbi već milijuna jednostavnih koje programeri uobličavaju u svrsishodne funkcije. Dobar programer, na primjer, izradi niz instrukcija kojima se izvršava neki jednostavan zadatak kao što je iscrtavanje jedne točke na ekranu i taj niz zatim učini dostupnim drugim programerima.
+
+Sadašnja su računala u stanju izvršavati nekoliko programa istovremeno. U stvarnosti, određeno kratko vrijeme obradnik izvršava naredbe jednog programa, a zatim se prebacuje na drugi program i izvršava dio njegovih naredbi. To određeno kratko vrijeme često nazivamo vremenski isječak. Ovaj način rada stvara iluziju izvršavanja nekoliko programa istovremeno, a u stvarnosti se radi o tome da programi dijele obradničko "radno vrijeme".
+
+Operacijski sustav
+Operacijski sustav (OS) je skup programa koji omogućuju provođenje radnih zahvata na računalu. Zadaci OS-a su olakšavanje uporabe računala, djelotvorno iskorištavanje svih dijelova računala te višeprogramski rad. OS odlučuje koji će program u danom trenutku biti izvršavan, koliko i kojih resursa će mu biti dodijeljeno (memorija, i sl. OS također osigurava takozvani apstraktni omotač[nedostaje izvor] (HAL) oko hardvera i programima dopušta pristup preko servisa kao što su kodovi (upravljački programi - "drajveri" od engl. driver), koji omogućavaju programerima pisanje programa bez potrebe za poznavanjem detalja o svim priključenim uređajima.
+Većina operacijskih sustava koji imaju te apstraktne omotače također imaju i standardizirano korisničko sučelje. Danas je najzastupljeniji operacijski sustav Windows. Postoje i besplatne alternative, kao što je Linux.
