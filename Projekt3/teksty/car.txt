@@ -1,0 +1,63 @@
+A car is a vehicle that has wheels, carries a small number of passengers, and is moved by an engine or a motor. Cars are also called automobiles or motor vehicles. Trucks and buses are motor vehicles as well. However, trucks and buses are larger than cars, and they carry heavier loads.
+
+It is hard for anyone today to imagine what life was like before there were cars. Cars and other motor vehicles have made it easy for people to travel within a city or across a continent. They have also influenced where people live. People once had to live near their jobs, but now they can live farther away and drive to work.
+
+Yet cars and other motor vehicles have brought problems as well. Tens of thousands of people are killed or injured each year in traffic accidents. Cities are often congested with huge traffic jams. And gasoline is a limited resource that pollutes the atmosphere when burned as fuel.
+
+Traditional Cars
+Car bodies have come in many different types. In early days most cars were open, without a fixed top. Now, aside from convertibles, most cars are closed. The most common styles include coupes and sedans. A coupe is a two-door car with a small back seat. A sedan usually has four doors and seats four to five people. Sedans with a lift-up rear door are called hatchbacks. Sports cars are built low to the ground and usually have no back seat. Station wagons have extra carrying capacity. By the end of the 20th century, however, they had been mostly replaced by minivans and sport utility vehicles (SUVs). Some cars are specially designed and built to be used for racing.
+
+Concept Cars
+When auto companies want to test out a new style or a new technology, they design a concept car. Concept cars are usually unveiled at auto shows, which are large exhibitions of cars from all over the world. Auto companies can then see how customers react to concept cars and decide what concepts should be developed. At first, an idea in a concept car may seem impractical, but after many years of development it may be found in every car on the market. For instance, the first concept car was revealed in 1938, and it included power windows. Fifty years later almost all cars had power windows. Another concept car was one that did not need a human driver, also known as a self-driving car. The concept of a self-driving car was introduced at the 1939 World’s Fair, and by the 2020s there were self-driving cars on the road. The idea of a flying car has been around almost since cars were invented. A practical working model was introduced in the 2020s, although at the time only drivers with a pilot’s license could fly it.
+
+All cars have certain basic parts. The body of an automobile is the outer shell that encloses the vehicle’s mechanical parts and its passengers. Most auto bodies are made of steel, but some are made of strong plastics or fiberglass. The body is attached to the chassis. This consists of a frame that holds all the other major parts of the car together. Those other parts include the engine, a steering system, brakes, and the wheels.
+
+A driver operates a car by pressing on pedals to make it go and stop and by turning the steering wheel to guide where the car goes. The pedals and steering wheel work because they are part of a larger system.
+
+Engine and Related Parts
+Most cars are powered by internal-combustion engines. In such an engine a mixture of air and gasoline enters a tubelike cylinder through valves. There the mixture makes small explosions. Each explosion produces gases that expand rapidly and push against a device called a piston on one end of the cylinder. The piston goes up and down as the gases expand and contract. Rods connected to the pistons convert that movement into the power that eventually turns the wheels. Most car engines have four to eight cylinders.
+
+The air-fuel mixture that enters the engine cannot ignite by itself. It needs an electric spark. This comes from devices called spark plugs. They get their electric current from a battery. The car’s lights, horn, turn signals, windshield wipers, starter, and instruments are also powered by the battery.
+
+An exhaust system carries burned gases from the engine to the muffler. The muffler cools the gases. It also reduces their pressure. This reduces the noise coming from the tailpipe. Modern cars are also equipped with a device called a catalytic converter. The catalytic converter uses chemicals to reduce exhaust pollution.
+
+An internal combustion engine gets very hot. Cars therefore must have a cooling system. In a liquid cooling system, coolant (water and antifreeze) flows through passages around the cylinders and carries off this heat. The hot coolant is then pumped through a radiator to cool it off. Some engines are cooled by a flow of air and have no liquid coolant.
+
+Power Train
+The engine provides power to make a car go, but something else must turn the wheels. The parts of the car that transmit, or deliver, power from the engine to the wheels are together called the power train. When a car is starting or moving uphill the engine must deliver more power than when it is cruising on level ground. The transmission uses gears to reduce or increase the speed and power of the engine. The drive shaft carries the power from the transmission to the axle, which connects the wheels.
+
+Other Mechanical Parts
+Once a car is moving it is important to be able to make it stop. When a driver presses the brake pedal, pistons force fluid through small, flexible pipes to brakes at each wheel that stop the vehicle.
+
+The wheels of a car are part of a system called the suspension system. This consists of springs that absorb bumps and shock absorbers that cushion the spring movement. The air-filled tires of a car also cushion the ride. The tires have rough surfaces that help keep them from sliding around on slippery or loose surfaces.
+
+History
+Read Aloud: Rewind (Subscriber Feature)
+Read Aloud: Play/Stop (Subscriber Feature)
+Read Aloud: Fast Forward (Subscriber Feature)
+The first true automobile was a machine that had three wheels and was powered by steam. It was built by Nicolas-Joseph Cugnot of France in 1769. It was heavy and moved very slowly. Many manufacturers produced steam-driven automobiles during the late 1890s and early 1900s. A disadvantage of steam was that water had to be brought to a boil before the car could go.
+
+During this same period other manufacturers produced cars run by electric motors. Electric cars ran smoothly and were easy to operate. However, they did not run well at high speeds. They also had to have their batteries recharged every 50 miles (80 kilometers) or so.
+
+Gas Engines
+Étienne Lenoir of France developed a gasoline-powered internal-combustion engine in 1860. In 1876 the German Nikolaus Otto built an improved gasoline engine. Gasoline engines proved to be more reliable than the other kinds. The brothers Charles E. and J. Frank Duryea built the first successful gasoline-powered car in the United States in 1893. Soon several people set up factories to produce cars.
+
+Development of the Automobile Industry
+Henry Ford made his first automobile in Detroit in 1896. Ford introduced the assembly line in 1913. This made it easy to produce many cars very quickly. Assembly-line workers stay in one place and do only a single task as the parts pass by on a conveyor. Ford soon sold millions of cars. The Model T version was especially popular. Several other companies were established at this time as well.
+
+Innovations
+In the period after World War I (1914–18), automobiles became easier to operate and more comfortable. Steel bodies and heaters became common.
+
+After World War II (1939–45) automakers began using power steering, power brakes, and automatic controls for windows and seats. Air conditioning also became available.
+
+In the late 1950s, European compact cars like the Volkswagen Beetle caused a sensation. Automakers in the United States built their own compact cars starting in 1959.
+
+The Problem of Oil
+The gasoline used in cars comes from oil. As the United States began to use up its own oil supplies, it looked to other countries for more. In 1973 the oil-producing countries stopped shipping as much oil to the countries that needed it. This caused high prices and long lines at gas stations. It also made automakers work to produce cars that did not use as much gasoline. Japanese companies were especially successful at this.
+
+Cars also cause widespread air pollution. As gasoline is burned it produces harmful gases. New types of gasoline and catalytic converters helped ease the problem. Even so, some scientists blame these gases for a problem called global warming. The scientists and others became more concerned in the 1990s. Many drivers had replaced their passenger cars with SUVs. Such automobiles use large amounts of gas and produce more of the harmful gases.
+
+By the 21st century some automakers had created vehicles that used alternative energy sources. Some ran on biofuel (such as ethanol) or batteries. The most successful alternative cars were called hybrids. They ran on a combination of gasoline and electric power.
+
+Safety
+Automobile safety is a continuing issue. Early cars were very dangerous to ride in. Since then car manufacturers have worked to create safer cars. They installed such devices as seat belts and air bags to protect riders in a crash. They have also tried to improve the way cars are built and the materials used to build cars so that the cars will survive a crash better.
