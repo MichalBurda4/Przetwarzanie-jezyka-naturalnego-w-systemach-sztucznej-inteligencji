@@ -5,8 +5,8 @@
 
 **Projekt 2**
 
-![image](https://github.com/user-attachments/assets/7258327e-c544-402a-9d71-8359ee6eec15)
 
 **Projekt 3**
 
-![image](https://github.com/user-attachments/assets/7258327e-c544-402a-9d71-8359ee6eec15)
+![image](https://github.com/user-attachments/assets/6aee35d4-72d5-4936-aea4-0796f3f40527)
+
