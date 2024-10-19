@@ -1,0 +1,8 @@
+I,me,my,mine,myself
+You,you,your,yours,yourself
+He,him,his,his,himself
+She,her,her,hers,herself
+It,it,null,its,itself
+We,us,our,ours,ourselves
+You,you,your,yours,yourselves
+They,them,their,theirs,themselves
